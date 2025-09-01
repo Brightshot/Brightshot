@@ -1,6 +1,5 @@
+CS undergrad learning about systems and cybersecurity.
 
-
-<!---
-Brightshot/Brightshot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linux user(I use Arch btw)
+Interested in low-level programming, reverse engineering, and cybersecurity.
+I make games too :)
